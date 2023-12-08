@@ -5,3 +5,7 @@
 ## Resources
 
 - [Toml Specifications](https://toml.io/en/)
+
+## Inspiration
+
+- [Bruno](https://www.usebruno.com/)
